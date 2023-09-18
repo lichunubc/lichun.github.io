@@ -1,8 +1,10 @@
 ---
-title: "About This Page"
+title: "Chun Li MDS"
 ---
 
-About this site \n
+This is a my personal website. \n
+So far, it is intended for DSCI 521 Lab 2 only. \n
+More updates to come \n
 
 \n Hello \n
 

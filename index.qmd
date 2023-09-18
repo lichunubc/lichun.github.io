@@ -1,7 +1,9 @@
 ---
-title: "Quarto_website"
+title: "Chun Li MDS"
 ---
 
-This is a Quarto website.
+This is a my personal website.
+So far, it is intended for DSCI 521 Lab 2 only.
+More updates to come
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
